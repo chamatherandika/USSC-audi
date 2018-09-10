@@ -13,7 +13,5 @@
 </head>
 <body>
 
-    <div>
-
-    </div>
+    <?php include('includes/hedder.php') ?>
 </body>
